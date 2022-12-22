@@ -1,0 +1,28 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.2",
+//link for server update
+"Url":"https://github.com/kyawzin1993/kyawzin1993/raw/main/bogart22.zip" ,
+"Changelog":"
+Latest update 22/12/2022
+TRUE အင်တာနက်တစ်လစာ
+DTAC အင်တာနက်တစ်လစာ
+ကိုရရှိဖို့အတွက် update ကိုနိပ်ပါ
+Bogartစက်ရုံမှာအလုပ်လုပ်ကျသောမြန်မာလူမျိုးများ
+အားလုံးအဆင်ပြေကျပါစေ..
+*မေတ္တာရိပ်မြိုင်*
+လိုင်း(E5)ကျော်ဇင်
+line phone-0619950534
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
